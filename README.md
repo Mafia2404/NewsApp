@@ -20,3 +20,4 @@
   </br>
    <img align ="left" src="https://raw.githubusercontent.com/Uddhav2404/NewsApp/master/newspic/Screenshot3.png" width="320" height="600" />
     <img align="right" src="https://raw.githubusercontent.com/Uddhav2404/NewsApp/master/newspic/Screenshot4.png" width="320" height="600" />
+<img align ="left" src="https://raw.githubusercontent.com/Uddhav2404/NewsApp/master/newspic/Screenshot5.png" width="320" height="600" />
